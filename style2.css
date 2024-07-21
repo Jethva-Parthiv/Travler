@@ -1,0 +1,161 @@
+
+.s1 {
+    text-align: center;
+    padding: 20px;
+    background-color:  rgb(203, 255, 191);
+}
+.s1 h1 {
+    font-size: 50px;
+}
+
+.s2 {
+    background-color: #fff;
+    text-align: center;
+}
+.s2 input {
+    padding: 10px;
+    width: 60%;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.s2 button {
+    padding: 10px 20px;
+    background-color:  #27ee5e;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.s2 button:hover {
+    background-color:   rgb(69, 148, 35);
+}
+
+.s2d {
+    margin: 20px 20px 20px 0px;
+}
+.s2d select {
+    padding: 10px;
+    margin: 5px ;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.s3 {
+    padding: 20px;
+    /* background-color: #f9f9f9; */
+}
+.s3 h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 35px;
+}
+
+.categories {
+    display: flex;
+    justify-content: space-around;
+}
+
+.s3c {
+    border-radius: 10px;
+    /* border: 0.2px solid rgb(142, 137, 137); */
+    width: 23%;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(203, 255, 191);
+}
+.s3c img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.about-s3c {
+    background-color: rgb(203, 255, 191);
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.about-s3c img {
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.about-h1{
+    padding-top: 20px;
+    font-size: 50px;
+}
+
+.about-p{
+    text-indent: 50px;
+    text-transform: capitalize;
+    padding: 20px 70px;
+}
+
+.card-a {
+    margin-top: 10px;
+    display: block;
+    background-color:  #27ee5e;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 0 0 10px 10px;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+
+
+.s4 {
+    margin-top: 20px;
+}
+   
+
+.s4 h2 {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.s4cards {
+    display: flex;
+    justify-content: space-around;
+}
+.s4card {
+    background-color: rgb(203, 255, 191);
+    width: 23%;
+    text-align: center;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.s4card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+.s4card h3 {
+    font-size: 1.5em;
+    color: #333;
+}
+.s4card p {
+    font-size: 1em;
+    color: #666;
+    padding: 10px;
+}
+.s4card a {
+    display: block;
+    background-color:  #27ee5e;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 0 0 10px 10px;
+}
+.s4card a:hover {
+    background-color:  #1fb248;
+}
+
+
